@@ -168,13 +168,13 @@ v0.1 target: zero external dependencies.
 
 ## 10. Definition of Done
 
-- [ ] All five commands implemented per section 7 and produce the outputs in section 4 exactly.
-- [ ] Every error case in section 8 is handled and tested.
-- [ ] `cargo build --release`, `cargo test`, `cargo clippy`, and `cargo fmt --check` all pass clean.
-- [ ] Zero external dependencies in `Cargo.toml`.
-- [ ] `eecalc help` documents every command and the SI prefix syntax.
-- [ ] This README's section 4 has been verified by copy-pasting the commands.
-- [ ] Tagged `v0.1.0`.
+- [x] All five commands implemented per section 7 and produce the outputs in section 4 exactly.
+- [x] Every error case in section 8 is handled and tested.
+- [x] `cargo build --release`, `cargo test`, `cargo clippy`, and `cargo fmt --check` all pass clean.
+- [x] Zero external dependencies in `Cargo.toml`.
+- [x] `eecalc help` documents every command and the SI prefix syntax.
+- [x] This README's section 4 has been verified by copy-pasting the commands.
+- [x] Tagged `v0.1.0`.
 
 ## 11. Out of scope (later versions)
 
